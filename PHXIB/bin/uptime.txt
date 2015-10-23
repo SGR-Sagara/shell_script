@@ -1,0 +1,5 @@
+System Up time Alert!
+Host : ebitg10
+Uptime : 1 days
+Internal IP : 10.26.16.10
+This server is up for more than 1 days. Please plan for a restart to be in the safe side.

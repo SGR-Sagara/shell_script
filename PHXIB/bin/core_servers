@@ -1,0 +1,94 @@
+#!/bin/sh
+
+# Usage info
+USAGE="\
+Usage:\tcore_servers { start | stop } [-S] [-T]
+\	-S = Shutdown mode, XIB processes are not started
+\	-T = Timeout to wait for processes to stop"
+
+# Default
+FUNCTION=start
+SHUTDOWN_MODE=
+TIMEOUT=120
+
+# Function to check if a process is running
+running() {
+	if test -f $1 ; then
+		kill -0 `cat $1` 2> /dev/null
+		if test $? -eq 0 ; then
+			# Process is running
+			return 0
+		fi
+	fi
+	# PID file does not exist or process is not running
+	return 1
+}
+
+# Parse command line
+while test "$1" != "" ; do
+	if test $1 = start ; then
+		FUNCTION=start
+	elif test $1 = stop ; then
+		FUNCTION=stop
+	elif test $1 = -S ; then
+		SHUTDOWN_MODE="-S"
+	elif test $1 = -T ; then
+		TIMEOUT=$2
+		shift
+	else
+		echo $USAGE
+		exit 1
+	fi
+	shift
+done
+
+CMD_ST_SETMODE="r4edi -i st_setmode.x4"
+CMD_ST_SETMODE_OPTIONS="\
+	-p ${CORE_SYSSTARTER_PORT}\
+	-a $CORE_LOCAL/config/passwd\
+	-h $CORE_PORTER_HOST\
+	$CORE_DATA/starter/starter.cfg"
+
+CMD_STARTER="r4edi -i starter.x4"
+
+if test "$CORE_SECONDARY_NODE" = "YES" ; then
+	CMD_STARTER_OPTIONS="\
+		-p ${CORE_SYSSTARTER_PORT}\
+		-a $CORE_LOCAL/config/passwd\
+		-h $CORE_PORTER_HOST\
+		-s $CORE_PORTER_PORT"
+else
+	CMD_STARTER_OPTIONS="\
+		-p ${CORE_SYSSTARTER_PORT}\
+		-a $CORE_LOCAL/config/passwd\
+		-h $CORE_PORTER_HOST\
+		$CORE_DATA/starter/starter.cfg"
+fi
+
+# Startup servers
+CURDIR=$PWD
+cd $CORE_ROOT
+if test $FUNCTION = start ; then
+	if running $CORE_DATA/pid/$CORE_HOST ; then
+		echo "The servers are already running!"
+	else
+		$CMD_ST_SETMODE $SHUTDOWN_MODE $CMD_ST_SETMODE_OPTIONS
+		survive -sterm -d5 -skill -p $CORE_DATA/pid/$CORE_HOST -P $CORE_DATA/pid/$CORE_HOST.grp "$CMD_STARTER $CMD_STARTER_OPTIONS" 2>$CORE_DATA/log/starter.log 1>&2 &
+	fi
+
+# Shutdown servers
+elif test $FUNCTION = stop ; then
+	r4edi starterstop.x4 \
+	-p ${CORE_SYSSTARTER_PORT} \
+	-a $CORE_LOCAL/config/passwd \
+	-t $TIMEOUT
+	if test "$?" = 0; then
+		if running $CORE_DATA/pid/$CORE_HOST ; then
+			kill -9 `cat $CORE_DATA/pid/$CORE_HOST`
+		fi
+		if running $CORE_DATA/pid/$CORE_HOST.grp ; then
+			kill -9 -`cat $CORE_DATA/pid/$CORE_HOST.grp`
+		fi
+	fi
+fi
+cd $CURDIR

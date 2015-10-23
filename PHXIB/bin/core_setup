@@ -1,0 +1,71 @@
+# Bourne shell commands for set up of the XIB Core environment
+# Usage. ". core_setup" Note the space after the dot!
+
+CORE_ROOT=/opt/phxib/xib
+CORE_DATA=/data/phxib/data
+CORE_LOCAL=/opt/phxib/xib/local
+CORE_TMP=$CORE_DATA/tmp
+CORE_EDEV=$CORE_DATA/log/eventdev
+CORE_DATE="%Y%m%d"
+CORE_LANGUAGE=eng
+CORE_HOST=`hostname`
+CORE_PORT_PREFIX=PHXIB_
+CORE_PORTER_HOST=ebitg10
+CORE_PORTER_PORT=PHXIB_porter
+CORE_SYSSTARTER_PORT=PHXIB_starter
+CORE_STARTER_PORT=PHXIB_starter2
+CORE_SYSMAN_PORT=PHXIB_sysman
+CORE_CFGSERVER_PORT=PHXIB_cfgserver
+CORE_INSTALLER=/opt/phxib/installer
+CORE_INSTALLER_PORT=7650
+CORE_TRACE_DEVICE=$CORE_DATA/log/eventdev
+CORE_STDERR_DEVICE=$CORE_DATA/log/stderr.log
+CORE_TRACE_PORT=PHXIB_tracer
+CORE_CSC_LOAD=/opt/phxib/xib/local/csc:/opt/phxib/xib/csc
+PWD=`pwd`
+LOGGER_OPTIONS=-D
+CORE_STOP_POSSIBLE_DUPLICATES=on
+TABLE_OPTIONS="-R 3d"
+
+RWT_TITLE_PATTERN="%t PHXIB_EBITG10"
+PATH=$CORE_LOCAL/bin:$CORE_ROOT/bin:$PATH
+export CORE_ROOT CORE_DATA CORE_LOCAL CORE_TMP CORE_EDEV
+export CORE_DATE CORE_LANGUAGE CORE_HOST CORE_PORT_PREFIX
+export CORE_PORTER_HOST CORE_PORTER_PORT CORE_SYSSTARTER_PORT
+export CORE_SYSMAN_PORT CORE_CFGSERVER_PORT CORE_INSTALLER CORE_STARTER_PORT
+export CORE_INSTALLER_PORT CORE_TRACE_DEVICE CORE_STDERR_DEVICE
+export CORE_TRACE_PORT CORE_CSC_LOAD PATH PWD
+export RWT_TITLE_PATTERN LOGGER_OPTIONS CORE_STOP_POSSIBLE_DUPLICATES TABLE_OPTIONS
+
+EDI_PATH=.:$CORE_LOCAL/4edi/pgm:$CORE_ROOT/4edi/pgm:$CORE_LOCAL/tool/pgm:$CORE_ROOT/tool/pgm:$CORE_LOCAL/4edi/component:$CORE_ROOT/4edi/component:$CORE_LOCAL/tool/component:$CORE_ROOT/tool/component
+EDI_INCLUDE=.:$CORE_LOCAL/4edi/include:$CORE_ROOT/4edi/include
+EDI_LIB=.:$CORE_LOCAL/4edi/lib:$CORE_ROOT/4edi/lib
+EDI_LOAD=.:$CORE_LOCAL/4edi/load:$CORE_ROOT/4edi/load
+EDI_DBLOAD=$CORE_ROOT/4edi/dbload
+export EDI_PATH EDI_INCLUDE EDI_LIB EDI_LOAD EDI_DBLOAD
+
+p_cs_server=CSTCP
+export p_cs_server
+p_cs_server_name=CSTCP
+export p_cs_server_name
+p_cs_config_file=$CORE_LOCAL/bin/csconfig.ini
+export p_cs_config_file
+unset TMPDIR
+unset CORE_BITMAPS
+
+if [ ${LD_LIBRARY_PATH:-} ] 
+then 
+ LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CORE_ROOT/bin:$CORE_LOCAL/4edi/load:$CORE_ROOT/4edi/load:$CORE_LOCAL/load:$CORE_ROOT/load:$CORE_ROOT/c/component:/usr/lib:$JAVA_HOME/jre/lib:$CORE_LOCAL/java/load:$CORE_ROOT/java/load
+else 
+ LD_LIBRARY_PATH=$CORE_ROOT/bin:$CORE_LOCAL/4edi/load:$CORE_ROOT/4edi/load:$CORE_LOCAL/load:$CORE_ROOT/load:$CORE_ROOT/c/component:/usr/lib:$JAVA_HOME/jre/lib:$CORE_LOCAL/java/load:$CORE_ROOT/java/load
+fi
+export LD_LIBRARY_PATH
+
+if [ ${CLASSPATH:-} ] 
+then 
+CLASSPATH=$CLASSPATH:$CORE_LOCAL/java/load:$CORE_ROOT/java/load:$CORE_LOCAL/java/lib:$CORE_ROOT/java/lib:$CORE_ROOT/java/conf:$CORE_ROOT/java/lib/srlzer.jar:$JAVA_HOME/jre/lib:$CORE_ROOT/java/lib/TrkDmn.jar
+else 
+CLASSPATH=$CORE_LOCAL/java/load:$CORE_ROOT/java/load:$CORE_LOCAL/java/lib:$CORE_ROOT/java/lib:$CORE_ROOT/java/conf:$CORE_ROOT/java/lib/srlzer.jar:$JAVA_HOME/jre/lib:$CORE_ROOT/java/lib/TrkDmn.jar
+fi
+export CLASSPATH
+

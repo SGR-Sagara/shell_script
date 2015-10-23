@@ -1,0 +1,88 @@
+#!/bin/bash
+#Simple OP5 plugin
+
+base='/home/sagara/OP5/'
+rm $base'data.txt'
+sleep 1
+touch $base'data.txt'
+outfile=$base'data.txt'
+
+checkFiles(){
+
+a1=$#
+a2=$@
+
+echo "Checked Folder count---$a1"
+echo "Checked Folder List ---$a2"
+
+ok=0
+warn=0
+criti=0
+
+for j in $a2
+do
+cd $base
+#echo $j
+# Check folder Exsistance
+if [ -d $j ]
+  then
+  #check file counter more than 2 minutes
+  #echo $j
+  cd $j
+  count=$(find . -maxdepth 1 -cmin +2 -type f | wc -l)
+  if [ $count -le 0 ]
+    then 
+      #echo "EXIT code OK(0)"
+      ok=0
+      #echo $ok
+    else if [ $count -gt 2 ]
+	then
+	    #echo "EXIT code CRITICAL(2)"
+	    criti=2
+	    #echo $criti
+	    echo "-----------Folder - $j ---File List-------" >> $outfile
+	    ls -ltr $(find . -maxdepth 1 -cmin +2 -type f) >> $outfile
+	else
+	    #echo "EXIT code WARNING(1)"
+	    warn=1
+	    #echo $warn
+	    echo "-----------Folder - $j ---File List-------" >> $outfile
+	    ls -ltr $(find . -maxdepth 1 -cmin +2 -type f) >> $outfile
+	fi
+  fi
+  
+  else
+  echo "-----------Folder - $j ----------" >> $outfile
+  echo "$j -> Folder not Found - EXIT with CRITICAL(2)" >> $outfile
+  criti=2
+fi
+
+
+#counter to control EXIT state
+#echo $i
+#i=$(expr $i + 1)
+
+
+done
+
+}
+
+#echo "Start -----checkFiles()----- function"
+checkFiles $@
+
+#echo $ok
+#echo $warn
+#echo $criti
+
+cat $outfile
+
+if [ $criti == 2 ]
+then
+  exit $criti
+else if [ $warn == 1 ]
+  then
+  exit $warn
+  else
+    exit $ok
+  fi
+fi
