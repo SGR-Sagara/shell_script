@@ -1,0 +1,32 @@
+####################### VGR Message Stat Report during last Hour ######################
+
+Message Type                  | Last File Received Time Date & Time(MM-DD HH:mm)| Number of files During Last Hour |
+DESADV From Suppliers                Feb-8 10:48                                     4
+INVOICE From Suppliers               Feb-8 10:51                                     28
+ORDRSP From Suppliers                Feb-8 10:50                                     150
+PRICAT From Suppliers                Feb-8 05:14                                     0
+SVEFAKTURA From Suppliers            Feb-8 09:34                                     0
+FAX Orders to Suppliers              Feb-8 10:35                                     4
+Out Going Invoices from App          No files during last Hour
+EDI Orders to Suppliers              Feb-8 10:51                                     72
+SVE Orders to Suppliers              Feb-8 10:02                                     1
+ANK from Applcation                  No files during last Hour
+ATT from Applcation                  No files during last Hour
+KUNDUFAKRUTA from Application        No files during last Hour
+MAKUL from Application               No files during last Hour
+AUTH LEDGER from Raindance           Feb-8 06:23                                     0
+KODPLAN from Raindance               Feb-8 08:28                                     0
+PAY DATES LEV from Raindance         Feb-8 08:26                                     0
+ZIP Files From Raindance             Feb-8 08:23                                     0
+DESADV Files from SALJA              Feb-8 10:51                                     25
+INVOICE Files from SALJA             Feb-8 10:51                                     28
+ORDRSP Files from SALJA              Feb-8 10:47                                     45
+ORDER Files from SALJA               Feb-8 10:51                                     55
+DESADV from Warehouse to App         Feb-8 10:49                                     86
+ILEV1 from Warehouse to App          Feb-8 01:08                                     0
+ORDRSP from Warehouse to App         Feb-8 10:50                                     36
+RECADV from Warehouse to App         Feb-8 10:50                                     80
+REFILL ORDER from Warehouse to App   Feb-8 10:49                                     11
+DESADV from App to Warehouse         Feb-8 10:51                                     35
+ORDRSP from App to Warehouse         Feb-8 10:48                                     134
+RECADV from App to Warehouse         Feb-8 10:51                                     109

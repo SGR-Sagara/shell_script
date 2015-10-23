@@ -1,0 +1,6 @@
+1. Remove count file if exsists
+2. Login to FTP server
+3. Go to file pickup location "/app/ftproot/uaexib/alfaftp/live/FromPH/IFTSTA/work"
+4. Check for any IFTMIN files older than 2 minute
+5. If found create list of files.
+6. Alert email generate

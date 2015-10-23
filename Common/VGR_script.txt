@@ -1,0 +1,67 @@
+ exin_despatchadvice   | DESADV From Suppliers
+ exin_invoice          | INVOICEFrom Suppliers
+ exin_orderresponse    | ORDRSP From Suppliers
+ exin_pricat           | PRICAT From Suppliers
+ exin_svefaktura       | SVEFAKTURA From Suppliers
+ exout_faxorders       | FAX Orders to Suppliers
+ exout_invoice         | Out Going Invoices from App
+ exout_orders          | EDI Orders to Suppliers
+ exout_sveorder        | SVE Orders to Suppliers
+ rdex_ankomst          | ANK from Applcation 
+ rdex_attest           | ATT from Applcation 
+ rdex_kundfaktura      | KUNDUFAKRUTA from Application
+ rdex_makulering       | MAKUL from Application
+ rdin_authledger       | AUTH LEDGER from Raindance 
+ rdin_kodplan          | KODPLAN from Raindance
+ rdin_paydateslev      | PAY DATES LEV from Raindance
+ rdin_zipfiles         | ZIP Files From Raindance
+ salja_despatchadvice  | DESADV Files from SALJA
+ salja_invoice         | INVOICE Files from SALJA
+ salja_orderresponse   | ORDRSP Files from SALJA
+ salja_orders          | ORDER Files from SALJA
+ whin_despatchadvice   | DESADV from Warehouse to App
+ whin_ilev1            | ILEV1 from Warehouse to App
+ whin_orderresponse    | ORDRSP from Warehouse to App
+ whin_receiveadvice    | RECADV from Warehouse to App
+ whin_refillorders     | REFILL ORDER from Warehouse to App      
+ whout_despatchadvice  | DESADV from App to Warehouse
+ whout_orderresponse   | ORDRSP from App to Warehouse
+ whout_receiveadvice   | RECADV from App to Warehouse
+
+
+1. check folder
+2. check date(20130206) folder
+3. count last hour file list -> find . -cmin -60 -type f -exec ls -l {} \; | wc -l
+4. get last file received time -> ls -ltr | tail -1 | awk '{ print "Date & Time(MM-DD HH:mm) : " $6 "-" $7 "  "  $8}'
+5. write to a file
+
+
+msgtyp='DESADV From Suppliers                '
+msgtyp='INVOICEFrom Suppliers                '
+msgtyp='ORDRSP From Suppliers                '
+msgtyp='PRICAT From Suppliers                '
+msgtyp='SVEFAKTURA From Suppliers            '
+msgtyp='FAX Orders to Suppliers              '
+msgtyp='Out Going Invoices from App          '
+msgtyp='EDI Orders to Suppliers              '
+msgtyp='SVE Orders to Suppliers              '
+msgtyp='ANK from Applcation                  '
+msgtyp='ATT from Applcation                  '
+msgtyp='KUNDUFAKRUTA from Application        '
+msgtyp='MAKUL from Application               '
+msgtyp='AUTH LEDGER from Raindance           '
+msgtyp='KODPLAN from Raindance               '
+msgtyp='PAY DATES LEV from Raindance         '
+msgtyp='ZIP Files From Raindance             '
+msgtyp='DESADV Files from SALJA              '
+msgtyp='INVOICE Files from SALJA             '
+msgtyp='ORDRSP Files from SALJA              '
+msgtyp='ORDER Files from SALJA               '
+msgtyp='DESADV from Warehouse to App         '
+msgtyp='ILEV1 from Warehouse to App          '
+msgtyp='ORDRSP from Warehouse to App         '
+msgtyp='RECADV from Warehouse to App         '
+msgtyp='REFILL ORDER from Warehouse to App   '
+msgtyp='DESADV from App to Warehouse         '
+msgtyp='ORDRSP from App to Warehouse         '
+msgtyp='RECADV from App to Warehouse         '

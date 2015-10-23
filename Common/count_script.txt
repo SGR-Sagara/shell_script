@@ -1,0 +1,16 @@
+DHL GF Counts
+##### 15CET counts
+1. Count IFTMIN, IFTRIN, Carrier IFTMIN(Carrier Orders) at 15 CET
+
+
+
+
+
+
+File List
+==========
+alfa_iftrin
+alfa_orders
+carrier_invoice
+carrier_orders
+carrier_status

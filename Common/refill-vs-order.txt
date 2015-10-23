@@ -1,0 +1,3 @@
+REFILL Vs ORDER verification
+1. List all the refill order ids processed previous 25th to 20th minutes
+2. Check Order XML files related to those refill orders

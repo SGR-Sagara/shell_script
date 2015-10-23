@@ -1,0 +1,14 @@
+#!/bin/bash
+#
+cd $1
+dup="re-process"
+lst=$(ls)
+cnt=1
+#
+for i in $lst
+do
+        mv "$i" "$dup-$cnt"
+        echo $cnt
+        echo $dup-$cnt
+        cnt=`expr $cnt + 1`
+done
