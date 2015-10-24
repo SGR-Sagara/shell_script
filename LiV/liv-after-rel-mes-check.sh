@@ -519,4 +519,4 @@ fi
 
 sleep 3
 
-mail -s "VGR After Release message verification" procurement.2ndline.int@ebuilder.com < $bse"/messages.txt"
+mail -s "LIV After Release message verification" procurement.2ndline.int@ebuilder.com < $bse"/messages.txt"
