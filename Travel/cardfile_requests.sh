@@ -31,10 +31,12 @@ if [ $cnt1 -ge 1 ]
 then
 echo "Order Request file detected"
 echo "Order Request file detected - No Further action required from anyone." >> /opt/mexib/card_order_request_status.txt
-mail -s "Nordia Card Order Request detected at $tm " sagara.jayathilaka@ebuilder.com < /opt/mexib/card_order_request_status.txt
+#mail -s "Nordia Card Order Request detected from Application at $tm " sagara.jayathilaka@ebuilder.com < /opt/mexib/card_order_request_status.txt
+mail -s "Nordia Card Order Request detected from Application at $tm " travel.2ndline.int@ebuilder.com,travel.2ndline@ebuilder.com < /opt/mexib/card_order_request_status.txt
 else
 echo "Order Request file NOT detected"
 echo "Order Request file NOT detected - Please check the Travel Application for any queue issue.[See JIRA Nord-326]" >> /opt/mexib/card_order_request_status.txt
-mail -s "Nordia Card Order Request NOT detected at $tm" sagara.jayathilaka@ebuilder.com < /opt/mexib/card_order_request_status.txt
+#mail -s "Nordia Card Order Request <<NOT DETECTED>> from Applicationat $tm" sagara.jayathilaka@ebuilder.com < /opt/mexib/card_order_request_status.txt
+mail -s "Nordia Card Order Request <<NOT DETECTED>> from Applicationat $tm" travel.2ndline.int@ebuilder.com,travel.2ndline@ebuilder.com < /opt/mexib/card_order_request_status.txt
 fi
 #
