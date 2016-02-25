@@ -1,3 +1,0 @@
-Integration ORDRSP list generation started ... !!
-Parameter value Passed : /opt/mxib/scripts/verify/tmp/manual_integration-ordrsp-list.txt , 22
-Para Value to Copy back ORDRSPs - /opt/mxib/scripts/verify/tmp/manual_integration-ordrsp-list.txt , 22

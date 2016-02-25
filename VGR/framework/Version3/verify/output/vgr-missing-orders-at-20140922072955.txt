@@ -1,6 +1,0 @@
-VGR Order verification result !!!
-Time duration 2014/09/22 06:14:55 to 2014/09/22 07:14:55
-Integration Missing Order IDs - 3
- OR731170136
- OR731170148
- OR73358528

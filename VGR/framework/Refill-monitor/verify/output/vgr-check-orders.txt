@@ -1,7 +1,0 @@
-VGR Order verification result !!!
-Time duration 2014/12/23 05:00:00 to 2014/12/23 06:00:00
- 
-Database Order count - 0
- 
- 
-Duplicates not detected within above time range

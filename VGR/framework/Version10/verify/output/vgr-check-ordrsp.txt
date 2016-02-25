@@ -1,7 +1,0 @@
-VGR ordrsp verification result !!!
-ORDRSP Copy back checked at 2014-10-14_05:15:02
- 
-Database ordrsp count - 932
- 
-Integration successfully received 932 ORDRSPs and sent to Warehouse ...!!!
- 
