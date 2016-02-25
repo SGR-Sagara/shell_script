@@ -1,0 +1,11 @@
+VGR ordrsp verification result !!!
+ORDRSP Copy back checked on 2014-11-12 at 2014-11-12_14-15-01
+ 
+Integration Missing ordrsps Count - 1
+ 
+Database ordrsp count - 739
+ 
+Integration Missing ORDRSP ID/s list.
+----------------------------------------------
+ORDER ID | ORDRSP ID
+ OR731183611|0094873966

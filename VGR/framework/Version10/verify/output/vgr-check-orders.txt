@@ -1,0 +1,8 @@
+VGR Order verification result !!!
+Time duration 2014/10/14 05:00:00 to 2014/10/14 06:00:00
+ 
+Database Order count - 1
+ 
+Integration successfully received 1 Order/s ...!!!
+ 
+Duplicates not detected within above time range

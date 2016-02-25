@@ -1,0 +1,36 @@
+Shell Script based verification
+===============================
+
+This framework is defined to verify data between Application DB and XIBs.
+
+Requirement:
+1. Original files received from external/Internal parties
+2. SQLPlus client
+
+
+Folder Structure:
+
+src - All the source data such as DB connection strings ..etc
+sql - Each sql statement which is to be executed
+script - Actual script which is to run via Cronjob
+input - Data inputs such as parameters to SQL, shell script ..etc
+output - Actual information, output from the script
+
+----|-src
+	|-sql
+	|-script
+	|-input
+	|-output
+	|-tmp
+
+	
+
+List only Unique  values
+-----------------------
+#sort file1 | uniq -i
+	
+Diff Funstion usage
+-------------------
+* Only show the additional lines of file1
+
+#diff -iBwa file1 file2 | grep '<' | awk -F '<' '{print $2}'

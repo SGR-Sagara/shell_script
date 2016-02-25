@@ -1,0 +1,23 @@
+VGR Order verification result !!!
+Time duration 2014/09/25 18:18:01 to 2014/09/26 18:18:01
+ 
+Integration Missing Orders Count - 8
+ 
+Database Order count - 989
+ 
+DUPLICATE ORDER OUT DETECTED !!!
+Duplicate Order count : 40
+Duplicated Order ID/s
+----------------------------------------------
+OR76610405
+ 
+Integration Missing Order IDs list.
+----------------------------------------------
+ OR61948090
+ OR731171638
+ OR731171815
+ OR731171871
+ OR73455821
+ OR75090779
+ OR75090815
+ OR76610417

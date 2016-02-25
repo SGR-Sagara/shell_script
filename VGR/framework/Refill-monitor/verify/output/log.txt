@@ -1,0 +1,553 @@
+Integration ORDRSP list generation started ... !!
+ORDRSP verification Script started ... 
+2014-12-22_05-57-13
+2014-12-05
+2014-12-21
+20
+Passed param valus to ORDRSP SQL /opt/mxib/scripts/verify/tmp/vgr-db-ordrsp-list.txt , 2014-12-05 , 2014-12-21
+Total ORDRSP found from Application :  12423
+DB ordrsp list created in  vgr-db-ordrsp-list.txt
+Test - Do changes in  vgr-db-ordrsp-list.txt - To verify missing ordrsps.
+Parameter value Passed : /opt/mxib/scripts/verify/tmp/integration-ordrsp-list.txt , 20
+Para Value to Copy back ORDRSPs - /opt/mxib/scripts/verify/tmp/integration-ordrsp-list.txt , 20
+Total ORDRSPs found in Integration within past 20 days : 12195
+Integration ORDRSP list generation ended ... !!
+XIB and DB ordrsp list sorted
+DB ordrsp count in  vgr-db-ordrsp-list-sorted.txt - 12400
+XIB ordrsp count in  integration-ordrsp-list-sorted.txt - 12173
+Testing - Change vgr-db-ordrsp-list-sorted.txt
+XIB missing ordrsp count 767
+Order verification Script started ... 
+2014-12-22_06-15-02
+2014/12/22 05:00:
+2014/12/22 06:00:
+2014/12/22 05:00:00
+2014/12/22 06:00:00
+120
+2014/12/22 05:00:00 to 2014/12/22 06:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 05:00:00 , 2014/12/22 , 06:00:00
+2014/12/22 05:00:00
+2014/12/22 06:00:00
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 0
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 0
+XIB Order count before sort : 0 - XIB Order count after sort : 0
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Integration ORDRSP list generation started ... !!
+ORDRSP verification Script started ... 
+2014-12-22_06-21-32
+2014-12-06
+2014-12-21
+20
+Passed param valus to ORDRSP SQL /opt/mxib/scripts/verify/tmp/vgr-db-ordrsp-list.txt , 2014-12-06 , 2014-12-21
+Total ORDRSP found from Application :  11591
+DB ordrsp list created in  vgr-db-ordrsp-list.txt
+Test - Do changes in  vgr-db-ordrsp-list.txt - To verify missing ordrsps.
+Parameter value Passed : /opt/mxib/scripts/verify/tmp/integration-ordrsp-list.txt , 20
+Para Value to Copy back ORDRSPs - /opt/mxib/scripts/verify/tmp/integration-ordrsp-list.txt , 20
+Total ORDRSPs found in Integration within past 20 days : 12195
+Integration ORDRSP list generation ended ... !!
+XIB and DB ordrsp list sorted
+DB ordrsp count in  vgr-db-ordrsp-list-sorted.txt - 11568
+XIB ordrsp count in  integration-ordrsp-list-sorted.txt - 12173
+Testing - Change vgr-db-ordrsp-list-sorted.txt
+XIB missing ordrsp count 2
+Order verification Script started ... 
+2014-12-22_07-15-01
+2014/12/22 06:00:
+2014/12/22 07:00:
+2014/12/22 06:00:00
+2014/12/22 07:00:00
+120
+2014/12/22 06:00:00 to 2014/12/22 07:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 06:00:00 , 2014/12/22 , 07:00:00
+2014/12/22 06:00:00
+2014/12/22 07:00:00
+Total Orders found from Application :  7
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 7
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 20
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 7
+XIB order count in  integration-order-list-sorted.txt - 20
+XIB Order count before sort : 20 - XIB Order count after sort : 20
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Order verification Script started ... 
+2014-12-22_08-15-02
+2014/12/22 07:00:
+2014/12/22 08:00:
+2014/12/22 07:00:00
+2014/12/22 08:00:00
+120
+2014/12/22 07:00:00 to 2014/12/22 08:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 07:00:00 , 2014/12/22 , 08:00:00
+2014/12/22 07:00:00
+2014/12/22 08:00:00
+Total Orders found from Application :  73
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 73
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 98
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 73
+XIB order count in  integration-order-list-sorted.txt - 98
+XIB Order count before sort : 98 - XIB Order count after sort : 98
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Order verification Script started ... 
+2014-12-22_09-15-02
+2014/12/22 08:00:
+2014/12/22 09:00:
+2014/12/22 08:00:00
+2014/12/22 09:00:00
+120
+2014/12/22 08:00:00 to 2014/12/22 09:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 08:00:00 , 2014/12/22 , 09:00:00
+2014/12/22 08:00:00
+2014/12/22 09:00:00
+Total Orders found from Application :  100
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 100
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 170
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 100
+XIB order count in  integration-order-list-sorted.txt - 170
+XIB Order count before sort : 170 - XIB Order count after sort : 170
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Integration ORDRSP list generation started ... !!
+ORDRSP verification Script started ... 
+2014-12-22_10-15-03
+Order verification Script started ... 
+2014-12-22_10-15-03
+2014-12-22
+2014-12-22
+1
+Passed param valus to ORDRSP SQL /opt/mxib/scripts/verify/tmp/vgr-db-ordrsp-list.txt , 2014-12-22 , 2014-12-22
+2014/12/22 09:00:
+2014/12/22 10:00:
+2014/12/22 09:00:00
+2014/12/22 10:00:00
+120
+2014/12/22 09:00:00 to 2014/12/22 10:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 09:00:00 , 2014/12/22 , 10:00:00
+2014/12/22 09:00:00
+2014/12/22 10:00:00
+Total ORDRSP found from Application :  467
+Total Orders found from Application :  323
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 323
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+DB ordrsp list created in  vgr-db-ordrsp-list.txt
+Test - Do changes in  vgr-db-ordrsp-list.txt - To verify missing ordrsps.
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+Parameter value Passed : /opt/mxib/scripts/verify/tmp/integration-ordrsp-list.txt , 1
+Para Value to Copy back ORDRSPs - /opt/mxib/scripts/verify/tmp/integration-ordrsp-list.txt , 1
+XIB order count in  integration-order-list.txt - 421
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 323
+XIB order count in  integration-order-list-sorted.txt - 421
+XIB Order count before sort : 421 - XIB Order count after sort : 421
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Total ORDRSPs found in Integration within past 1 days : 497
+Integration ORDRSP list generation ended ... !!
+XIB and DB ordrsp list sorted
+DB ordrsp count in  vgr-db-ordrsp-list-sorted.txt - 467
+XIB ordrsp count in  integration-ordrsp-list-sorted.txt - 497
+Testing - Change vgr-db-ordrsp-list-sorted.txt
+XIB missing ordrsp count 0
+Order verification Script started ... 
+2014-12-22_11-15-02
+2014/12/22 10:00:
+2014/12/22 11:00:
+2014/12/22 10:00:00
+2014/12/22 11:00:00
+120
+2014/12/22 10:00:00 to 2014/12/22 11:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 10:00:00 , 2014/12/22 , 11:00:00
+2014/12/22 10:00:00
+2014/12/22 11:00:00
+Total Orders found from Application :  87
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 87
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 422
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 87
+XIB order count in  integration-order-list-sorted.txt - 422
+XIB Order count before sort : 422 - XIB Order count after sort : 422
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Order verification Script started ... 
+2014-12-22_12-15-02
+2014/12/22 11:00:
+2014/12/22 12:00:
+2014/12/22 11:00:00
+2014/12/22 12:00:00
+120
+2014/12/22 11:00:00 to 2014/12/22 12:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 11:00:00 , 2014/12/22 , 12:00:00
+2014/12/22 11:00:00
+2014/12/22 12:00:00
+Total Orders found from Application :  88
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 88
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 185
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 88
+XIB order count in  integration-order-list-sorted.txt - 185
+XIB Order count before sort : 185 - XIB Order count after sort : 185
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Order verification Script started ... 
+2014-12-22_13-15-01
+2014/12/22 12:00:
+2014/12/22 13:00:
+2014/12/22 12:00:00
+2014/12/22 13:00:00
+120
+2014/12/22 12:00:00 to 2014/12/22 13:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 12:00:00 , 2014/12/22 , 13:00:00
+2014/12/22 12:00:00
+2014/12/22 13:00:00
+Total Orders found from Application :  63
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 63
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 147
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 63
+XIB order count in  integration-order-list-sorted.txt - 147
+XIB Order count before sort : 147 - XIB Order count after sort : 147
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Integration ORDRSP list generation started ... !!
+ORDRSP verification Script started ... 
+2014-12-22_14-15-02
+2014-12-22
+2014-12-22
+1
+Passed param valus to ORDRSP SQL /opt/mxib/scripts/verify/tmp/vgr-db-ordrsp-list.txt , 2014-12-22 , 2014-12-22
+Order verification Script started ... 
+2014-12-22_14-15-02
+2014/12/22 13:00:
+2014/12/22 14:00:
+2014/12/22 13:00:00
+2014/12/22 14:00:00
+120
+2014/12/22 13:00:00 to 2014/12/22 14:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 13:00:00 , 2014/12/22 , 14:00:00
+2014/12/22 13:00:00
+2014/12/22 14:00:00
+Total ORDRSP found from Application :  956
+Total Orders found from Application :  92
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 92
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+DB ordrsp list created in  vgr-db-ordrsp-list.txt
+Test - Do changes in  vgr-db-ordrsp-list.txt - To verify missing ordrsps.
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+Parameter value Passed : /opt/mxib/scripts/verify/tmp/integration-ordrsp-list.txt , 1
+Para Value to Copy back ORDRSPs - /opt/mxib/scripts/verify/tmp/integration-ordrsp-list.txt , 1
+XIB order count in  integration-order-list.txt - 176
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 92
+XIB order count in  integration-order-list-sorted.txt - 176
+XIB Order count before sort : 176 - XIB Order count after sort : 176
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Total ORDRSPs found in Integration within past 1 days : 1004
+Integration ORDRSP list generation ended ... !!
+XIB and DB ordrsp list sorted
+DB ordrsp count in  vgr-db-ordrsp-list-sorted.txt - 956
+XIB ordrsp count in  integration-ordrsp-list-sorted.txt - 1004
+Testing - Change vgr-db-ordrsp-list-sorted.txt
+XIB missing ordrsp count 0
+Order verification Script started ... 
+2014-12-22_15-15-02
+2014/12/22 14:00:
+2014/12/22 15:00:
+2014/12/22 14:00:00
+2014/12/22 15:00:00
+120
+2014/12/22 14:00:00 to 2014/12/22 15:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 14:00:00 , 2014/12/22 , 15:00:00
+2014/12/22 14:00:00
+2014/12/22 15:00:00
+Total Orders found from Application :  139
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 139
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 228
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 139
+XIB order count in  integration-order-list-sorted.txt - 228
+XIB Order count before sort : 228 - XIB Order count after sort : 228
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Order verification Script started ... 
+2014-12-22_16-15-02
+2014/12/22 15:00:
+2014/12/22 16:00:
+2014/12/22 15:00:00
+2014/12/22 16:00:00
+120
+2014/12/22 15:00:00 to 2014/12/22 16:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 15:00:00 , 2014/12/22 , 16:00:00
+2014/12/22 15:00:00
+2014/12/22 16:00:00
+Total Orders found from Application :  69
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 69
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 217
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 69
+XIB order count in  integration-order-list-sorted.txt - 217
+XIB Order count before sort : 217 - XIB Order count after sort : 217
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Integration ORDRSP list generation started ... !!
+ORDRSP verification Script started ... 
+2014-12-22_17-15-01
+Order verification Script started ... 
+2014-12-22_17-15-01
+2014-12-22
+2014-12-22
+1
+Passed param valus to ORDRSP SQL /opt/mxib/scripts/verify/tmp/vgr-db-ordrsp-list.txt , 2014-12-22 , 2014-12-22
+2014/12/22 16:00:
+2014/12/22 17:00:
+2014/12/22 16:00:00
+2014/12/22 17:00:00
+120
+2014/12/22 16:00:00 to 2014/12/22 17:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 16:00:00 , 2014/12/22 , 17:00:00
+2014/12/22 16:00:00
+2014/12/22 17:00:00
+Total ORDRSP found from Application :  1207
+Total Orders found from Application :  68
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 68
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+DB ordrsp list created in  vgr-db-ordrsp-list.txt
+Test - Do changes in  vgr-db-ordrsp-list.txt - To verify missing ordrsps.
+Parameter value Passed : /opt/mxib/scripts/verify/tmp/integration-ordrsp-list.txt , 1
+Para Value to Copy back ORDRSPs - /opt/mxib/scripts/verify/tmp/integration-ordrsp-list.txt , 1
+XIB order count in  integration-order-list.txt - 123
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 68
+XIB order count in  integration-order-list-sorted.txt - 123
+XIB Order count before sort : 123 - XIB Order count after sort : 123
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Total ORDRSPs found in Integration within past 1 days : 1260
+Integration ORDRSP list generation ended ... !!
+XIB and DB ordrsp list sorted
+DB ordrsp count in  vgr-db-ordrsp-list-sorted.txt - 1206
+XIB ordrsp count in  integration-ordrsp-list-sorted.txt - 1259
+Testing - Change vgr-db-ordrsp-list-sorted.txt
+XIB missing ordrsp count 0
+Order verification Script started ... 
+2014-12-22_18-15-02
+2014/12/22 17:00:
+2014/12/22 18:00:
+2014/12/22 17:00:00
+2014/12/22 18:00:00
+120
+2014/12/22 17:00:00 to 2014/12/22 18:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 17:00:00 , 2014/12/22 , 18:00:00
+2014/12/22 17:00:00
+2014/12/22 18:00:00
+Total Orders found from Application :  6
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 6
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 18
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 6
+XIB order count in  integration-order-list-sorted.txt - 18
+XIB Order count before sort : 18 - XIB Order count after sort : 18
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Order verification Script started ... 
+2014-12-23_00-15-02
+2014/12/22 00:00:
+2014/12/23 00:00:
+2014/12/22 00:00:00
+2014/12/23 00:00:00
+1500
+2014/12/22 00:00:00 to 2014/12/23 00:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/22 , 00:00:00 , 2014/12/23 , 00:00:00
+2014/12/22 00:00:00
+2014/12/23 00:00:00
+Total Orders found from Application :  1121
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1121
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 1121
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 1121
+XIB order count in  integration-order-list-sorted.txt - 1121
+XIB Order count before sort : 1121 - XIB Order count after sort : 1121
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Integration DESADV list generation started ... !!
+DESADV verification Script started ... 
+2014-12-23_04-00-03
+2014-12-22
+2014-12-23
+2
+Passed param valus to DESADV SQL /opt/mxib/scripts/verify/tmp/vgr-db-desadv-list.txt , 2014-12-22 , 2014-12-23
+Total DESADV found from Application :  1111
+DB desadv list created in  vgr-db-desadv-list.txt
+Test - Do changes in  vgr-db-desadv-list.txt - To verify missing desadvs.
+Parameter value Passed : /opt/mxib/scripts/verify/tmp/integration-desadv-list.txt , 2
+Para Value to Copy back DESADVs - /opt/mxib/scripts/verify/tmp/integration-desadv-list.txt , 2
+Total DESADVs found in Integration within past 2 days : 1625
+Integration DESADV list generation ended ... !!
+XIB and DB desadv list sorted
+DB desadv count in  vgr-db-desadv-list-sorted.txt - 1111
+XIB desadv count in  integration-desadv-list-sorted.txt - 1625
+Testing - Change vgr-db-desadv-list-sorted.txt
+XIB missing desadv count 1
+Integration ORDRSP list generation started ... !!
+ORDRSP verification Script started ... 
+2014-12-23_04-15-02
+2014-12-22
+2014-12-23
+2
+Passed param valus to ORDRSP SQL /opt/mxib/scripts/verify/tmp/vgr-db-ordrsp-list.txt , 2014-12-22 , 2014-12-23
+Total ORDRSP found from Application :  1217
+DB ordrsp list created in  vgr-db-ordrsp-list.txt
+Test - Do changes in  vgr-db-ordrsp-list.txt - To verify missing ordrsps.
+Parameter value Passed : /opt/mxib/scripts/verify/tmp/integration-ordrsp-list.txt , 2
+Para Value to Copy back ORDRSPs - /opt/mxib/scripts/verify/tmp/integration-ordrsp-list.txt , 2
+Total ORDRSPs found in Integration within past 2 days : 1278
+Integration ORDRSP list generation ended ... !!
+XIB and DB ordrsp list sorted
+DB ordrsp count in  vgr-db-ordrsp-list-sorted.txt - 1216
+XIB ordrsp count in  integration-ordrsp-list-sorted.txt - 1277
+Testing - Change vgr-db-ordrsp-list-sorted.txt
+XIB missing ordrsp count 0
+Order verification Script started ... 
+2014-12-23_06-15-02
+2014/12/23 05:00:
+2014/12/23 06:00:
+2014/12/23 05:00:00
+2014/12/23 06:00:00
+120
+2014/12/23 05:00:00 to 2014/12/23 06:00:00
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/12/23 , 05:00:00 , 2014/12/23 , 06:00:00
+2014/12/23 05:00:00
+2014/12/23 06:00:00
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 0
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 0
+XIB Order count before sort : 0 - XIB Order count after sort : 0
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0

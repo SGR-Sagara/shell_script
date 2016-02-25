@@ -1,0 +1,12 @@
+VGR Order verification result !!!
+Time duration 2014/10/03 00:00:01 to 2014/10/04 00:00:01
+ 
+Database Order count - 939
+ 
+Integration successfully received 939 Order/s ...!!!
+ 
+DUPLICATE ORDER OUT DETECTED !!!
+ 
+Duplicate Order count : 1
+Duplicated Order ID/s
+----------------------------------------------

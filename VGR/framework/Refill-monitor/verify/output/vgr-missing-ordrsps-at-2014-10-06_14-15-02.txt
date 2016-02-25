@@ -1,0 +1,15 @@
+VGR ordrsp verification result !!!
+Time duration 2014-10-05 to 2014-10-06
+ 
+Integration Missing ordrsps Count - 5
+ 
+Database ordrsp count - 20
+ 
+Integration Missing ORDRSP ID/s list.
+----------------------------------------------
+ORDER ID | ORDRSP ID
+ OR61948543|6031550
+ OR61948544|6031546
+ OR71124759|6029696
+ OR71124760|6029671
+ OR71900985|6031588

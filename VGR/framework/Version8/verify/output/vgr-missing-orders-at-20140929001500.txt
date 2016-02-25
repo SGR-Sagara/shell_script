@@ -1,0 +1,12 @@
+VGR Order verification result !!!
+Time duration 2014/09/28 00:00:00 to 2014/09/29 00:00:00
+ 
+Integration Missing Orders Count - 2
+ 
+Database Order count - 36
+ 
+ 
+Integration Missing Order IDs list.
+----------------------------------------------
+ OR60822027
+ OR60822028

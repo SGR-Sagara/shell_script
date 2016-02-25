@@ -1,0 +1,15 @@
+VGR desadv verification result !!!
+Time duration 2014-12-15 to 2014-12-16
+ 
+Integration Missing desadvs Count - 5
+ 
+Database desadv count - 826
+ 
+Integration Missing DESADV ID/s list.
+----------------------------------------------
+ORDER ID | DESADV ID
+ OR731191620|252077914
+ OR73606578|155 077
+ OR750100229|700049489
+ OR750100284|76 778
+ OR75096641|20141215A

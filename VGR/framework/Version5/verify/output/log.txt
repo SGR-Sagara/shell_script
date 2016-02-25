@@ -1,0 +1,1628 @@
+20140924200201
+2014/09/23 19:52:01
+2014/09/24 19:52:01
+1500
+2014/09/23 19:52:01 to 2014/09/24 19:52:01
+Passed param valus to SQL 2014/09/23 19:52:01 and 2014/09/24 19:52:01
+2014/09/23 19:52:01
+2014/09/24 19:52:01
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+20140924200701
+2014/09/23 19:57:01
+2014/09/24 19:57:01
+1500
+2014/09/23 19:57:01 to 2014/09/24 19:57:01
+Passed param valus to SQL 2014/09/23 19:57:01 and 2014/09/24 19:57:01
+2014/09/23 19:57:01
+2014/09/24 19:57:01
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+20140924235901
+2014/09/23 23:49:01
+2014/09/24 23:49:01
+1500
+2014/09/23 23:49:01 to 2014/09/24 23:49:01
+Passed param valus to SQL 2014/09/23 23:49:01 and 2014/09/24 23:49:01
+2014/09/23 23:49:01
+2014/09/24 23:49:01
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+Testing - Change vgr-db-order-list-sorted.txt
+20140925043001
+2014/09/25 03:15:01
+2014/09/25 04:15:01
+120
+2014/09/25 03:15:01 to 2014/09/25 04:15:01
+Passed param valus to SQL 2014/09/25 03:15:01 and 2014/09/25 04:15:01
+2014/09/25 03:15:01
+2014/09/25 04:15:01
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925043701
+2014/09/25 03:22:01
+2014/09/25 04:22:01
+120
+2014/09/25 03:22:01 to 2014/09/25 04:22:01
+Passed param valus to SQL 2014/09/25 03:22:01 and 2014/09/25 04:22:01
+2014/09/25 03:22:01
+2014/09/25 04:22:01
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925060001
+2014/09/25 04:45:01
+2014/09/25 05:45:01
+120
+2014/09/25 04:45:01 to 2014/09/25 05:45:01
+Passed param valus to SQL 2014/09/25 04:45:01 and 2014/09/25 05:45:01
+2014/09/25 04:45:01
+2014/09/25 05:45:01
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925070002
+2014/09/25 05:45:02
+2014/09/25 06:45:02
+120
+2014/09/25 05:45:02 to 2014/09/25 06:45:02
+Passed param valus to SQL 2014/09/25 05:45:02 and 2014/09/25 06:45:02
+2014/09/25 05:45:02
+2014/09/25 06:45:02
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925080001
+2014/09/25 06:45:01
+2014/09/25 07:45:01
+120
+2014/09/25 06:45:01 to 2014/09/25 07:45:01
+Passed param valus to SQL 2014/09/25 06:45:01 and 2014/09/25 07:45:01
+2014/09/25 06:45:01
+2014/09/25 07:45:01
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925090002
+2014/09/25 07:45:02
+2014/09/25 08:45:02
+120
+2014/09/25 07:45:02 to 2014/09/25 08:45:02
+Passed param valus to SQL 2014/09/25 07:45:02 and 2014/09/25 08:45:02
+2014/09/25 07:45:02
+2014/09/25 08:45:02
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925100001
+2014/09/25 08:45:01
+2014/09/25 09:45:01
+120
+2014/09/25 08:45:01 to 2014/09/25 09:45:01
+Passed param valus to SQL 2014/09/25 08:45:01 and 2014/09/25 09:45:01
+2014/09/25 08:45:01
+2014/09/25 09:45:01
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925110001
+2014/09/25 09:45:01
+2014/09/25 10:45:01
+120
+2014/09/25 09:45:01 to 2014/09/25 10:45:01
+Passed param valus to SQL 2014/09/25 09:45:01 and 2014/09/25 10:45:01
+2014/09/25 09:45:01
+2014/09/25 10:45:01
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925120002
+2014/09/25 10:45:02
+2014/09/25 11:45:02
+120
+2014/09/25 10:45:02 to 2014/09/25 11:45:02
+Passed param valus to SQL 2014/09/25 10:45:02 and 2014/09/25 11:45:02
+2014/09/25 10:45:02
+2014/09/25 11:45:02
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925130001
+2014/09/25 11:45:01
+2014/09/25 12:45:02
+120
+2014/09/25 11:45:01 to 2014/09/25 12:45:02
+Passed param valus to SQL 2014/09/25 11:45:01 and 2014/09/25 12:45:02
+2014/09/25 11:45:01
+2014/09/25 12:45:02
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925140001
+2014/09/25 12:45:01
+2014/09/25 13:45:01
+120
+2014/09/25 12:45:01 to 2014/09/25 13:45:01
+Passed param valus to SQL 2014/09/25 12:45:01 and 2014/09/25 13:45:01
+2014/09/25 12:45:01
+2014/09/25 13:45:01
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925150002
+2014/09/25 13:45:02
+2014/09/25 14:45:02
+120
+2014/09/25 13:45:02 to 2014/09/25 14:45:02
+Passed param valus to SQL 2014/09/25 13:45:02 and 2014/09/25 14:45:02
+2014/09/25 13:45:02
+2014/09/25 14:45:02
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925160001
+2014/09/25 14:45:01
+2014/09/25 15:45:01
+120
+2014/09/25 14:45:01 to 2014/09/25 15:45:01
+Passed param valus to SQL 2014/09/25 14:45:01 and 2014/09/25 15:45:01
+2014/09/25 14:45:01
+2014/09/25 15:45:01
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925170002
+2014/09/25 15:45:02
+2014/09/25 16:45:02
+120
+2014/09/25 15:45:02 to 2014/09/25 16:45:02
+Passed param valus to SQL 2014/09/25 15:45:02 and 2014/09/25 16:45:02
+2014/09/25 15:45:02
+2014/09/25 16:45:02
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925180001
+2014/09/25 16:45:01
+2014/09/25 17:45:02
+120
+2014/09/25 16:45:01 to 2014/09/25 17:45:02
+Passed param valus to SQL 2014/09/25 16:45:01 and 2014/09/25 17:45:02
+2014/09/25 16:45:01
+2014/09/25 17:45:02
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925183501
+2014/09/25 17:20:01
+2014/09/25 18:20:01
+120
+2014/09/25 17:20:01 to 2014/09/25 18:20:01
+Passed param valus to SQL 2014/09/25 17:20:01 and 2014/09/25 18:20:01
+2014/09/25 17:20:01
+2014/09/25 18:20:01
+Total Orders found from Application :  0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+Testing - Change vgr-db-order-list-sorted.txt
+20140925184901
+2014/09/25 17:34:01
+2014/09/25 18:34:01
+120
+2014/09/25 17:34:01 to 2014/09/25 18:34:01
+Passed param valus to SQL 2014/09/25 17:34:01 and 2014/09/25 18:34:01
+2014/09/25 17:34:01
+2014/09/25 18:34:01
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list-sorted.txt
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+XIB and DB order list sorted
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL and
+
+
+Total Orders found from Application :  0
+Passed param valus to SQL and
+2014/09/25 17:34:01
+2014/09/25 18:34:01
+Total Orders found from Application :  26
+20140925185802
+2014/09/25 17:43:02
+2014/09/25 18:43:02
+120
+2014/09/25 17:43:02 to 2014/09/25 18:43:02
+Passed param valus to SQL 2014/09/25 17:43:02 and 2014/09/25 18:43:02
+2014/09/25
+17:43:02
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list-sorted.txt
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+XIB and DB order list sorted
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140925190156
+2014/09/24 18:51:56
+2014/09/25 18:51:56
+1500
+2014/09/24 18:51:56 to 2014/09/25 18:51:56
+Passed param valus to SQL 2014/09/24 and 18:51:56
+2014/09/24
+18:51:56
+Total Orders found from Application :  6
+DB order list created in  vgr-db-order-list-sorted.txt
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+XIB and DB order list sorted
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 5
+20140925190412
+2014/09/24 18:54:12
+2014/09/25 18:54:12
+1500
+2014/09/24 18:54:12 to 2014/09/25 18:54:12
+Passed param valus to SQL $tm1 and $tm2
+$tm1
+$tm2
+Total Orders found from Application :  6
+DB order list created in  vgr-db-order-list-sorted.txt
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+XIB and DB order list sorted
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 5
+20140925190805
+2014/09/24 18:58:05
+2014/09/25 18:58:05
+1500
+2014/09/24 18:58:05 to 2014/09/25 18:58:05
+Passed param valus to SQL 2014/09/24 , 18:58:05 , 2014/09/25 , 18:58:05
+2014/09/24 18:58:05
+2014/09/25 18:58:05
+Total Orders found from Application :  1374
+DB order list created in  vgr-db-order-list-sorted.txt
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+XIB and DB order list sorted
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140925195522
+2014/09/24 19:45:22
+2014/09/25 19:45:22
+1500
+2014/09/24 19:45:22 to 2014/09/25 19:45:22
+Passed param valus to SQL 2014/09/24 , 19:45:22 , 2014/09/25 , 19:45:22
+2014/09/24 19:45:22
+2014/09/25 19:45:22
+Total Orders found from Application :  1373
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1373
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1374
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 1373
+DB order count in  integration-order-list-sorted.txt - 1374
+XIB duplicate Order count : 
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140925201008
+2014/09/24 20:00:08
+2014/09/25 20:00:08
+1500
+2014/09/24 20:00:08 to 2014/09/25 20:00:08
+Passed param valus to SQL 2014/09/24 , 20:00:08 , 2014/09/25 , 20:00:08
+2014/09/24 20:00:08
+2014/09/25 20:00:08
+Total Orders found from Application :  1373
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1373
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1374
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 1373
+DB order count in  integration-order-list-sorted.txt - 1374
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140925202205
+2014/09/24 20:12:05
+2014/09/25 20:12:05
+1500
+2014/09/24 20:12:05 to 2014/09/25 20:12:05
+Passed param valus to SQL 2014/09/24 , 20:12:05 , 2014/09/25 , 20:12:05
+2014/09/24 20:12:05
+2014/09/25 20:12:05
+Total Orders found from Application :  1373
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1373
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+XIB order count in  integration-order-list.txt - 1374
+Do changes to integration-order-list.txt for testing --- !!!
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 1373
+XIB order count in  integration-order-list-sorted.txt - 1374
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140925202705
+2014/09/24 20:17:05
+2014/09/25 20:17:05
+1500
+2014/09/24 20:17:05 to 2014/09/25 20:17:05
+Passed param valus to SQL 2014/09/24 , 20:17:05 , 2014/09/25 , 20:17:05
+2014/09/24 20:17:05
+2014/09/25 20:17:05
+Total Orders found from Application :  1373
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1373
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+XIB order count in  integration-order-list.txt - 1374
+Do changes to integration-order-list.txt for testing --- !!!
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 1373
+XIB order count in  integration-order-list-sorted.txt - 1334
+Duplicate Orders found at XIB
+XIB duplicate Order count : 1280
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 40
+20140925204644
+2014/09/24 20:36:44
+2014/09/25 20:36:44
+1500
+2014/09/24 20:36:44 to 2014/09/25 20:36:44
+Passed param valus to SQL 2014/09/24 , 20:36:44 , 2014/09/25 , 20:36:44
+2014/09/24 20:36:44
+2014/09/25 20:36:44
+Total Orders found from Application :  1373
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1373
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+XIB order count in  integration-order-list.txt - 1373
+Do changes to integration-order-list.txt for testing --- !!!
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 1373
+XIB order count in  integration-order-list-sorted.txt - 1373
+XIB Order count before sort : 1373 - XIB Order count after sort : 1373
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926010101
+2014/09/25 00:51:01
+2014/09/26 00:51:01
+1500
+2014/09/25 00:51:01 to 2014/09/26 00:51:01
+Passed param valus to SQL 2014/09/25 , 00:51:01 , 2014/09/26 , 00:51:01
+2014/09/25 00:51:01
+2014/09/26 00:51:01
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+XIB order count in  integration-order-list.txt - 1372
+Do changes to integration-order-list.txt for testing --- !!!
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 1372
+XIB Order count before sort : 1372 - XIB Order count after sort : 0
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926055531
+2014/09/26 04:40:31
+2014/09/26 05:40:31
+120
+2014/09/26 04:40:31 to 2014/09/26 05:40:31
+Passed param valus to SQL 2014/09/26 , 04:40:31 , 2014/09/26 , 05:40:31
+2014/09/26 04:40:31
+2014/09/26 05:40:31
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+XIB order count in  integration-order-list.txt - 0
+Do changes to integration-order-list.txt for testing --- !!!
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 0
+XIB Order count before sort : 0 - XIB Order count after sort : 0
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926060840
+2014/09/26 04:53:40
+2014/09/26 05:53:40
+120
+2014/09/26 04:53:40 to 2014/09/26 05:53:40
+Passed param valus to SQL 2014/09/26 , 04:53:40 , 2014/09/26 , 05:53:40
+2014/09/26 04:53:40
+2014/09/26 05:53:40
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+XIB order count in  integration-order-list.txt - 0
+Do changes to integration-order-list.txt for testing --- !!!
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 4
+XIB order count in  integration-order-list-sorted.txt - 0
+XIB Order count before sort : 0 - XIB Order count after sort : 4
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 4
+20140926061705
+2014/09/26 05:02:05
+2014/09/26 06:02:05
+120
+2014/09/26 05:02:05 to 2014/09/26 06:02:05
+Passed param valus to SQL 2014/09/26 , 05:02:05 , 2014/09/26 , 06:02:05
+2014/09/26 05:02:05
+2014/09/26 06:02:05
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 2
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 2
+XIB Order count before sort : 2 - XIB Order count after sort : 0
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926062252
+2014/09/26 05:07:52
+2014/09/26 06:07:52
+120
+2014/09/26 05:07:52 to 2014/09/26 06:07:52
+Passed param valus to SQL 2014/09/26 , 05:07:52 , 2014/09/26 , 06:07:52
+2014/09/26 05:07:52
+2014/09/26 06:07:52
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 4
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 2
+XIB Order count before sort : 4 - XIB Order count after sort : 2
+Duplicate Orders found at XIB
+XIB duplicate Order count : 2
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926064408
+2014/09/25 06:34:08
+2014/09/26 06:34:08
+1500
+2014/09/25 06:34:08 to 2014/09/26 06:34:08
+Passed param valus to SQL 2014/09/25 , 06:34:08 , 2014/09/26 , 06:34:08
+2014/09/25 06:34:08
+2014/09/26 06:34:08
+Total Orders found from Application :  1352
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1352
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 1354
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 1352
+XIB order count in  integration-order-list-sorted.txt - 1314
+XIB Order count before sort : 1354 - XIB Order count after sort : 1314
+Duplicate Orders found at XIB
+XIB duplicate Order count : 1289
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 58
+20140926065801
+2014/09/25 06:48:01
+2014/09/26 06:48:01
+1500
+2014/09/25 06:48:01 to 2014/09/26 06:48:01
+Passed param valus to SQL 2014/09/25 , 06:48:01 , 2014/09/26 , 06:48:01
+2014/09/25 06:48:01
+2014/09/26 06:48:01
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 1372
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 1372
+XIB Order count before sort : 1372 - XIB Order count after sort : 1372
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926074336
+2014/09/25 07:33:36
+2014/09/26 07:33:36
+1500
+2014/09/25 07:33:36 to 2014/09/26 07:33:36
+Passed param valus to SQL 2014/09/25 , 07:33:36 , 2014/09/26 , 07:33:36
+2014/09/25 07:33:36
+2014/09/26 07:33:36
+Total Orders found from Application :  1314
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1314
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 1388
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 1314
+XIB order count in  integration-order-list-sorted.txt - 1368
+XIB Order count before sort : 1388 - XIB Order count after sort : 1368
+Duplicate Orders found at XIB
+XIB duplicate Order count : 
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 39
+20140926074733
+2014/09/25 07:37:33
+2014/09/26 07:37:33
+1500
+2014/09/25 07:37:33 to 2014/09/26 07:37:33
+Passed param valus to SQL 2014/09/25 , 07:37:33 , 2014/09/26 , 07:37:33
+2014/09/25 07:37:33
+2014/09/26 07:37:33
+Total Orders found from Application :  1318
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1318
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 1405
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 1318
+XIB order count in  integration-order-list-sorted.txt - 1400
+XIB Order count before sort : 1405 - XIB Order count after sort : 1400
+Duplicate Orders found at XIB
+XIB duplicate Order count : 
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 5
+20140926075531
+2014/09/25 07:45:31
+2014/09/26 07:45:31
+1500
+2014/09/25 07:45:31 to 2014/09/26 07:45:31
+Passed param valus to SQL 2014/09/25 , 07:45:31 , 2014/09/26 , 07:45:31
+2014/09/25 07:45:31
+2014/09/26 07:45:31
+Total Orders found from Application :  1327
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1327
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 1394
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 1327
+XIB order count in  integration-order-list-sorted.txt - 1391
+XIB Order count before sort : 1394 - XIB Order count after sort : 1391
+Duplicate Orders found at XIB
+XIB duplicate Order count : 3
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 9
+20140926075802
+2014/09/25 07:48:02
+2014/09/26 07:48:02
+1500
+2014/09/25 07:48:02 to 2014/09/26 07:48:02
+Passed param valus to SQL 2014/09/25 , 07:48:02 , 2014/09/26 , 07:48:02
+2014/09/25 07:48:02
+2014/09/26 07:48:02
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 1405
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 1405
+XIB Order count before sort : 1405 - XIB Order count after sort : 1405
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926080804
+2014/09/26 06:53:04
+2014/09/26 07:53:04
+120
+2014/09/26 06:53:04 to 2014/09/26 07:53:04
+Passed param valus to SQL 2014/09/26 , 06:53:04 , 2014/09/26 , 07:53:04
+2014/09/26 06:53:04
+2014/09/26 07:53:04
+Total Orders found from Application :  77
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 77
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 100
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 77
+XIB order count in  integration-order-list-sorted.txt - 100
+XIB Order count before sort : 100 - XIB Order count after sort : 100
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926081906
+2014/09/25 08:09:06
+2014/09/26 08:09:06
+1500
+2014/09/25 08:09:06 to 2014/09/26 08:09:06
+Passed param valus to SQL 2014/09/25 , 08:09:06 , 2014/09/26 , 08:09:06
+2014/09/25 08:09:06
+2014/09/26 08:09:06
+Total Orders found from Application :  1313
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 1313
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 1410
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 1313
+XIB order count in  integration-order-list-sorted.txt - 1410
+XIB Order count before sort : 1410 - XIB Order count after sort : 1410
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926082959
+2014/09/25 08:19:59
+2014/09/26 08:19:59
+1500
+2014/09/25 08:19:59 to 2014/09/26 08:19:59
+Passed param valus to SQL 2014/09/25 , 08:19:59 , 2014/09/26 , 08:19:59
+2014/09/25 08:19:59
+2014/09/26 08:19:59
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 1406
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 1406
+XIB Order count before sort : 1406 - XIB Order count after sort : 1406
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926083502
+2014/09/25 08:20:02
+2014/09/26 08:20:02
+1500
+2014/09/25 08:20:02 to 2014/09/26 08:20:02
+Passed param valus to SQL 2014/09/25 , 08:20:02 , 2014/09/26 , 08:20:02
+2014/09/25 08:20:02
+2014/09/26 08:20:02
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 1412
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 1412
+XIB Order count before sort : 1412 - XIB Order count after sort : 1412
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926084801
+2014/09/25 08:33:01
+2014/09/26 08:33:01
+1500
+2014/09/25 08:33:01 to 2014/09/26 08:33:01
+Passed param valus to SQL 2014/09/25 , 08:33:01 , 2014/09/26 , 08:33:01
+2014/09/25 08:33:01
+2014/09/26 08:33:01
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 1407
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 1407
+XIB Order count before sort : 1407 - XIB Order count after sort : 1407
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL 2014/09/25 09:00:01 , 2014/09/26 09:00:01 , ,
+2014/09/25 09:00:01 2014/09/26 09:00:01
+
+Total Orders found from Application :  22
+Passed param valus to SQL 2014/09/25 , 09:00:01 , 2014/09/26 , 09:00:01
+2014/09/25 09:00:01
+2014/09/26 09:00:01
+Total Orders found from Application :  4357
+Passed param valus to SQL 2014/09/25 , 09:00:01 , 2014/09/26 , 09:00:01
+2014/09/25 09:00:01
+2014/09/26 09:00:01
+Total Orders found from Application :  1291
+Passed param valus to SQL 2014/09/25 , 09:00:01 , 2014/09/26 , 09:00:01
+2014/09/25 09:00:01
+2014/09/26 09:00:01
+Total Orders found from Application :  1291
+Passed param valus to SQL 2014/09/25 , 09:00:01 , 2014/09/26 , 09:00:01
+2014/09/25 09:00:01
+2014/09/26 09:00:01
+Total Orders found from Application :  1291
+20140926091600
+2014/09/26 08:01:00
+2014/09/26 09:01:00
+120
+2014/09/26 08:01:00 to 2014/09/26 09:01:00
+Passed param valus to SQL 2014/09/26 , 08:01:00 , 2014/09/26 , 09:01:00
+2014/09/26 08:01:00
+2014/09/26 09:01:00
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 184
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 184
+XIB Order count before sort : 184 - XIB Order count after sort : 184
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL 2014/09/26 , 08:01:01 , 2014/09/26 , 09:01:01
+2014/09/26 08:01:01
+2014/09/26 09:01:01
+Total Orders found from Application :  74
+20140926101500
+2014/09/26 09:00:00
+2014/09/26 10:00:00
+120
+2014/09/26 09:00:00 to 2014/09/26 10:00:00
+Passed param valus to SQL 2014/09/26 , 09:00:00 , 2014/09/26 , 10:00:00
+2014/09/26 09:00:00
+2014/09/26 10:00:00
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | For duplicate
+XIB order count in  integration-order-list.txt - 300
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 300
+XIB Order count before sort : 300 - XIB Order count after sort : 300
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926102556
+2014/09/26 09:10:56
+2014/09/26 10:10:56
+120
+2014/09/26 09:10:56 to 2014/09/26 10:10:56
+Passed param valus to SQL 2014/09/26 , 09:10:56 , 2014/09/26 , 10:10:56
+2014/09/26 09:10:56
+2014/09/26 10:10:56
+Total Orders found from Application :  217
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 217
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 301
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 217
+XIB order count in  integration-order-list-sorted.txt - 301
+XIB Order count before sort : 301 - XIB Order count after sort : 301
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926103500
+2014/09/26 09:20:00
+2014/09/26 10:20:00
+120
+2014/09/26 09:20:00 to 2014/09/26 10:20:00
+Passed param valus to SQL 2014/09/26 , 09:20:00 , 2014/09/26 , 10:20:00
+2014/09/26 09:20:00
+2014/09/26 10:20:00
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 293
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 293
+XIB Order count before sort : 293 - XIB Order count after sort : 293
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926103659
+2014/09/26 09:21:59
+2014/09/26 10:21:59
+120
+2014/09/26 09:21:59 to 2014/09/26 10:21:59
+Passed param valus to SQL 2014/09/26 , 09:21:59 , 2014/09/26 , 10:21:59
+2014/09/26 09:21:59
+2014/09/26 10:21:59
+Total Orders found from Application :  212
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 212
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 293
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 212
+XIB order count in  integration-order-list-sorted.txt - 293
+XIB Order count before sort : 293 - XIB Order count after sort : 293
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL 2014/09/26 , 08:01:01 , 2014/09/26 , 09:01:01
+2014/09/26 08:01:01
+2014/09/26 09:01:01
+Total Orders found from Application :  212
+Passed param valus to SQL 2014/09/26 , 08:01:01 , 2014/09/26 , 09:01:01
+2014/09/26 08:01:01
+2014/09/26 09:01:01
+Total Orders found from Application :  212
+Passed param valus to SQL 2014/09/26 , 08:01:01 , 2014/09/26 , 09:01:01
+2014/09/26 08:01:01
+2014/09/26 09:01:01
+Total Orders found from Application :  212
+Passed param valus to SQL 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  212
+Passed param valus to SQL 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  212
+Passed param valus to SQL 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  212
+Passed param valus to SQL 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  212
+Passed param valus to SQL 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  212
+Passed param valus to SQL 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926113500
+2014/09/26 10:20:00
+2014/09/26 11:20:00
+120
+2014/09/26 10:20:00 to 2014/09/26 11:20:00
+Passed param valus to SQL 2014/09/26 , 10:20:00 , 2014/09/26 , 11:20:00
+2014/09/26 10:20:00
+2014/09/26 11:20:00
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 289
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 289
+XIB Order count before sort : 289 - XIB Order count after sort : 289
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926123200
+2014/09/26 11:17:00
+2014/09/26 12:17:00
+120
+2014/09/26 11:17:00 to 2014/09/26 12:17:00
+Passed param valus to SQL 2014/09/26 , 11:17:00 , 2014/09/26 , 12:17:00
+2014/09/26 11:17:00
+2014/09/26 12:17:00
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 211
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 211
+XIB Order count before sort : 211 - XIB Order count after sort : 211
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  227
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926124201
+2014/09/26 11:27:01
+2014/09/26 12:27:01
+120
+2014/09/26 11:27:01 to 2014/09/26 12:27:01
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 11:27:01 , 2014/09/26 , 12:27:01
+2014/09/26 11:27:01
+2014/09/26 12:27:01
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 211
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 211
+XIB Order count before sort : 211 - XIB Order count after sort : 211
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  227
+20140926130938
+2014/09/26 11:54:38
+2014/09/26 12:54:38
+120
+2014/09/26 11:54:38 to 2014/09/26 12:54:38
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 11:54:38 , 2014/09/26 , 12:54:38
+2014/09/26 11:54:38
+2014/09/26 12:54:38
+Total Orders found from Application :  109
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 109
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 195
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 109
+XIB order count in  integration-order-list-sorted.txt - 195
+XIB Order count before sort : 195 - XIB Order count after sort : 195
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926131201
+2014/09/26 11:57:01
+2014/09/26 12:57:01
+120
+2014/09/26 11:57:01 to 2014/09/26 12:57:01
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 11:57:01 , 2014/09/26 , 12:57:01
+2014/09/26 11:57:01
+2014/09/26 12:57:01
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 201
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 201
+XIB Order count before sort : 201 - XIB Order count after sort : 201
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926132801
+2014/09/26 12:13:01
+2014/09/26 13:13:01
+120
+2014/09/26 12:13:01 to 2014/09/26 13:13:01
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 12:13:01 , 2014/09/26 , 13:13:01
+2014/09/26 12:13:01
+2014/09/26 13:13:01
+Total Orders found from Application :  0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926133002
+2014/09/26 12:15:02
+2014/09/26 13:15:02
+120
+2014/09/26 12:15:02 to 2014/09/26 13:15:02
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 12:15:02 , 2014/09/26 , 13:15:02
+2014/09/26 12:15:02
+2014/09/26 13:15:02
+Total Orders found from Application :  0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  227
+20140926133049
+2014/09/26 12:15:49
+2014/09/26 13:15:49
+120
+2014/09/26 12:15:49 to 2014/09/26 13:15:49
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 12:15:49 , 2014/09/26 , 13:15:49
+2014/09/26 12:15:49
+2014/09/26 13:15:49
+Total Orders found from Application :  91
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926133701
+2014/09/26 12:22:01
+2014/09/26 13:22:01
+120
+2014/09/26 12:22:01 to 2014/09/26 13:22:01
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 12:22:01 , 2014/09/26 , 13:22:01
+2014/09/26 12:22:01
+2014/09/26 13:22:01
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 210
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 210
+XIB Order count before sort : 210 - XIB Order count after sort : 210
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926134003
+2014/09/26 12:25:03
+2014/09/26 13:25:03
+120
+2014/09/26 12:25:03 to 2014/09/26 13:25:03
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 12:25:03 , 2014/09/26 , 13:25:03
+2014/09/26 12:25:03
+2014/09/26 13:25:03
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 206
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 206
+XIB Order count before sort : 206 - XIB Order count after sort : 206
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926134402
+2014/09/26 12:29:02
+2014/09/26 13:29:02
+120
+2014/09/26 12:29:02 to 2014/09/26 13:29:02
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 12:29:02 , 2014/09/26 , 13:29:02
+2014/09/26 12:29:02
+2014/09/26 13:29:02
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 196
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 196
+XIB Order count before sort : 196 - XIB Order count after sort : 196
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926170004
+2014/09/26 15:45:04
+2014/09/26 16:45:04
+120
+2014/09/26 15:45:04 to 2014/09/26 16:45:04
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 15:45:04 , 2014/09/26 , 16:45:04
+2014/09/26 15:45:04
+2014/09/26 16:45:04
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 107
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 107
+XIB Order count before sort : 107 - XIB Order count after sort : 107
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926172302
+2014/09/26 16:08:02
+2014/09/26 17:08:02
+120
+2014/09/26 16:08:02 to 2014/09/26 17:08:02
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 16:08:02 , 2014/09/26 , 17:08:02
+2014/09/26 16:08:02
+2014/09/26 17:08:02
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 72
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 72
+XIB Order count before sort : 72 - XIB Order count after sort : 72
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926173201
+2014/09/26 16:17:01
+2014/09/26 17:17:01
+120
+2014/09/26 16:17:01 to 2014/09/26 17:17:01
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 16:17:01 , 2014/09/26 , 17:17:01
+2014/09/26 16:17:01
+2014/09/26 17:17:01
+Total Orders found from Application :  0
+20140926173302
+2014/09/26 16:18:02
+2014/09/26 17:18:02
+120
+2014/09/26 16:18:02 to 2014/09/26 17:18:02
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 16:18:02 , 2014/09/26 , 17:18:02
+2014/09/26 16:18:02
+2014/09/26 17:18:02
+Total Orders found from Application :  0
+20140926173401
+2014/09/26 16:19:01
+2014/09/26 17:19:01
+120
+2014/09/26 16:19:01 to 2014/09/26 17:19:01
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 16:19:01 , 2014/09/26 , 17:19:01
+2014/09/26 16:19:01
+2014/09/26 17:19:01
+Total Orders found from Application :  0
+20140926173501
+2014/09/26 16:20:01
+2014/09/26 17:20:01
+120
+2014/09/26 16:20:01 to 2014/09/26 17:20:01
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 16:20:01 , 2014/09/26 , 17:20:01
+2014/09/26 16:20:01
+2014/09/26 17:20:01
+Total Orders found from Application :  0
+20140926173601
+2014/09/26 16:21:01
+2014/09/26 17:21:01
+120
+2014/09/26 16:21:01 to 2014/09/26 17:21:01
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 16:21:01 , 2014/09/26 , 17:21:01
+2014/09/26 16:21:01
+2014/09/26 17:21:01
+Total Orders found from Application :  0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926173701
+2014/09/26 16:22:01
+2014/09/26 17:22:01
+120
+2014/09/26 16:22:01 to 2014/09/26 17:22:01
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 16:22:01 , 2014/09/26 , 17:22:01
+2014/09/26 16:22:01
+2014/09/26 17:22:01
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 61
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 61
+XIB Order count before sort : 61 - XIB Order count after sort : 61
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926173801
+2014/09/26 16:23:01
+2014/09/26 17:23:01
+120
+2014/09/26 16:23:01 to 2014/09/26 17:23:01
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 16:23:01 , 2014/09/26 , 17:23:01
+2014/09/26 16:23:01
+2014/09/26 17:23:01
+Total Orders found from Application :  0
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 0
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 61
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 0
+XIB order count in  integration-order-list-sorted.txt - 61
+XIB Order count before sort : 61 - XIB Order count after sort : 61
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+Passed param valus to SQL 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+Passed param valus to SQL 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  227
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926175802
+2014/09/26 16:43:02
+2014/09/26 17:43:02
+120
+2014/09/26 16:43:02 to 2014/09/26 17:43:02
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 16:43:02 , 2014/09/26 , 17:43:02
+2014/09/26 16:43:02
+2014/09/26 17:43:02
+Total Orders found from Application :  0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+20140926180202
+2014/09/26 16:47:02
+2014/09/26 17:47:02
+120
+2014/09/26 16:47:02 to 2014/09/26 17:47:02
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 16:47:02 , 2014/09/26 , 17:47:02
+2014/09/26 16:47:02
+2014/09/26 17:47:02
+Total Orders found from Application :  0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  0
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  227
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 09:01:01 , 2014/09/26 , 10:01:01
+2014/09/26 09:01:01
+2014/09/26 10:01:01
+Total Orders found from Application :  227
+20140926181601
+2014/09/26 17:01:01
+2014/09/26 18:01:01
+120
+2014/09/26 17:01:01 to 2014/09/26 18:01:01
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 17:01:01 , 2014/09/26 , 18:01:01
+2014/09/26 17:01:01
+2014/09/26 18:01:01
+Total Orders found from Application :  5
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 5
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 19
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 5
+XIB order count in  integration-order-list-sorted.txt - 19
+XIB Order count before sort : 19 - XIB Order count after sort : 19
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926181802
+2014/09/26 17:03:02
+2014/09/26 18:03:02
+120
+2014/09/26 17:03:02 to 2014/09/26 18:03:02
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/26 , 17:03:02 , 2014/09/26 , 18:03:02
+2014/09/26 17:03:02
+2014/09/26 18:03:02
+Total Orders found from Application :  5
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 5
+Parameter value Passed minutes : 120
+Para Value to FAX Order - 120
+Para Value to EDU Order - 120
+Para Value to SVE Order- 120
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 19
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 5
+XIB order count in  integration-order-list-sorted.txt - 19
+XIB Order count before sort : 19 - XIB Order count after sort : 19
+XIB duplicate Order count : 0
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 0
+20140926183301
+2014/09/25 18:18:01
+2014/09/26 18:18:01
+1500
+2014/09/25 18:18:01 to 2014/09/26 18:18:01
+Passed param valus to SQL /opt/mxib/scripts/verify/tmp/vgr-db-order-list.txt , 2014/09/25 , 18:18:01 , 2014/09/26 , 18:18:01
+2014/09/25 18:18:01
+2014/09/26 18:18:01
+Total Orders found from Application :  989
+DB order list created in  vgr-db-order-list.txt
+DB order count in  vgr-db-order-list.txt - 989
+Parameter value Passed minutes : 1500
+Para Value to FAX Order - 1500
+Para Value to EDU Order - 1500
+Para Value to SVE Order- 1500
+XIB order list created in integration-order-list.txt
+Do changes to integration-order-list.txt - To verify missing Orders: Delete | Duplicate
+XIB order count in  integration-order-list.txt - 1036
+XIB and DB order list sorted
+DB order count in  vgr-db-order-list-sorted.txt - 989
+XIB order count in  integration-order-list-sorted.txt - 996
+XIB Order count before sort : 1036 - XIB Order count after sort : 996
+Duplicate Orders found at XIB
+XIB duplicate Order count : 40
+Testing - Change vgr-db-order-list-sorted.txt
+XIB missing Order count 8

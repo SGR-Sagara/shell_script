@@ -1,0 +1,12 @@
+VGR desadv verification result !!!
+Time duration 2014-10-31 to 2014-11-01
+ 
+Integration Missing desadvs Count - 2
+ 
+Database desadv count - 371
+ 
+Integration Missing DESADV ID/s list.
+----------------------------------------------
+ORDER ID | DESADV ID
+ OR731180429|U53176(2195)
+ OR73265166|53685

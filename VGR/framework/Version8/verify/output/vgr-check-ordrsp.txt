@@ -1,0 +1,7 @@
+VGR ordrsp verification result !!!
+Time duration 2014-10-03 to 2014-10-04
+ 
+Database ordrsp count - 753
+ 
+Integration successfully received 753 ORDRSPs and sent to Warehouse ...!!!
+ 
