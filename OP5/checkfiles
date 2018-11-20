@@ -87,10 +87,16 @@ else if [ $warn == 1 ]
   fi
 fi
 
-### This is a test record
+### This is a test record After Merg
 if [ 1 > 2 ]
 then
 	exit
 else
 	exit
+else if [ 3 > 2 ]
+	then
+		break
+	else
+		break
 fi
+
