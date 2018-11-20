@@ -92,11 +92,6 @@ if [ 1 > 2 ]
 then
 	exit
 else
-	exit
-else if [ 3 > 2 ]
-	then
-		break
-	else
-		break
+	break
 fi
 
