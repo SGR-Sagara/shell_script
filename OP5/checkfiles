@@ -86,3 +86,11 @@ else if [ $warn == 1 ]
     exit $ok
   fi
 fi
+
+### This is a test record########
+if [ 3 > 2 ]
+then
+	break
+else
+	break
+fi
